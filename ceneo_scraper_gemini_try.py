@@ -1,7 +1,6 @@
-import requests
+from curl_cffi import requests
+# import requests
 from bs4 import BeautifulSoup
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 import json
 import os
 
@@ -16,21 +15,14 @@ headers={
     "Cookie":"__RequestVerificationToken=HTs45Lw1FK0_HawCvmy_dH_xF0OobzMQE4PFt-iNeHAoR3EhCcV1ovyX_czqtkM_e3Q2qEaOWzJv_ANqoze_joQ3ZCXk2H5sSciBYVf6nzk1; __utmf=7636197f9eda0d543ff32e8f54c2b10a_Dsgqi6QMc9CtX7buqOpcIw%3D%3D; sv3=2.0_519a1426-47b2-11f1-a437-5dc3532c656f_1777896662399; userCeneo=ID=fb1457c0-5073-422f-9722-74b363d1a7df; ai_user=refCO|2026-05-04T12:11:02.933Z; appType=%7B%22Value%22%3A1%7D; cProdCompare_v2=; __eoi=ID=d02ffe28235a02da:T=1777896663:RT=1777896663:S=AA-AfjYZqXuJ3aQAkX0uiPcwn1OO; cto_bundle=ZiA3NF9GRWNETnFyeFlVb2N4cll1c0U1UUppT0NvdVN3WlJVeSUyRnlOdSUyRklOWnclMkY5OSUyQkElMkI5WmRYSzlGcExmdjR2eWV2NThzTVRFaVlmS2FKQUJ6RGlvQnJ1akZZMVJmeEhGeiUyQiUyQktqWlpjWGt2MTBnVkU0ZzZSRlNNSmZmWndVaHQzUnVE; __rtbh.uid=%7B%22eventType%22%3A%22uid%22%2C%22id%22%3A%22unknown%22%2C%22expiryDate%22%3A%222027-05-04T12%3A11%3A03.787Z%22%7D; __rtbh.aid=%7B%22eventType%22%3A%22aid%22%2C%22id%22%3A%22519a1426-47b2-11f1-a437-5dc3532c656f%22%2C%22expiryDate%22%3A%222027-05-04T12%3A11%3A03.787Z%22%7D; __rtbh.lid=%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22srCP6qedK6KSKaUWii0o%22%2C%22expiryDate%22%3A%222027-05-04T12%3A11%3A03.787Z%22%7D; ai_session=ZfIHW|1777896663843.1|1777896663843.1; browserBlStatus=0; ga4_ga=GA1.2.519a1426-47b2-11f1-a437-5dc3532c656f; _gcl_au=1.1.220895263.1777896665; consentcookie=eyJBZ3JlZUFsbCI6dHJ1ZSwiQ29uc2VudHMiOlsxLDMsNCwyXSwiVENTdHJpbmciOiJDUWpyczhBUWpyczhBR3lBQkJQTENkRXNBUF9nQUFBQUFCNVlLTHREN0Q3ZExXRmd3SHhuWUtzUU1JMWY4ZUNBWW9RQUJBYUJBU0FCU0FLUUlJUUdra0FRSkFTZ0JBQUNBQUlBS0NSQklRQU1BQUNBQ0VBQVFJQUFJUUFFQUFDUUFRZ0tBQUFFaUFBUUFBQVlBQUFpQ0lBQUFRQUlnRUlFRUJFQW1RaEFBQUlBRUZBQWpBQUVJQUFBQUFBQUFBQUFBd0FBQUFBQ0FBSUFBQUFBZ0NBQUFJQUFBQUFBQUVBQVFCZ0lFQUFBQUFFQUFBQUFBQUFBQVFBQUFCQUFBQUFJS0xnQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUJZS0FEQUFFRkZ3a0FHQUFJS0xob0FNQUFRVVhFUUFZQUFnb3VLZ0F3QUJCUmNaQUJnQUNDaTQ2QURBQUVGRnlFQUdBQUlLTGtvQU1BQVFVWEtRQVlBQWdvdVdnQXdBQkJSY0EuSUtMdEQ3RDdkTFdGZ3dIeG5ZS3NRTUkxZjhlQ0FZb1FBQkFhQkFTQUJTQUtRSUlRR2trQVFKQVNnQkFBQ0FBSUFLQ1JCSVFBTUFBQ0FDRUFBUUlBQUlRQUVBQUNRQVFnS0FBQUVpQUFRQUFBWUFBQWlDSUFBQVFBSWdFSUVFQkVBbVFoQUFBSUFFRkFBakFBRUlBQUFBQUFBQUFBQUF3QUFBQUFDQUFJQUFBQUFnQ0FBQUlBQUFBQUFBRUFBUUJnSUVBQUFBQUVBQUFBQUFBQUFBUUFBQUJBQUFBQUlBIiwiVmVyc2lvbiI6InYzIn0=; FPID=FPID2.2.%2F36IMxGNfil01a5mNzMzvVWpeVWedrwUavxkMOLknU8%3D; ga4_ga_K2N2M0CBQ6=GS2.2.s1777896663$o1$g0$t1777896665$j60$l0$h1102236686; FPLC=Vu%2BuakVLLIhm2A7qN4ewb91KGEQTp%2BjYj6ldbLpFixzQABzK2uz4Tj%2F2I0om0xLEqYbcNHlmafkit3GBAUJjg8CQ1xy5nfvvXNl7sZmqiQ6EnFM%3D"
 
 }
-url= f"https://www.ceneo.pl/{product_code}/opinie-{page}"
-path_to_driver = "D:\\chromedriver-win64\\chromedriver.exe"
-s = Service(path_to_driver)
-driver = webdriver.Chrome(service=s)
-driver.get(url)
-driver.maximize_window()
-driver.find_element(by="xpath",value="//*[@id='js_cookie-consent-general']/div/div[2]/button[1]").click()
-
-
 all_opinions=[]
+session = requests.Session(impersonate="chrome")
 while next:
     
     url= f"https://www.ceneo.pl/{product_code}/opinie-{page}"
     print(page,next,url)
-    r=requests.get(url,headers=headers)
+    r=session.get(url,headers=headers)
+    
     print(r.status_code)
 
     page_dom=BeautifulSoup(r.text, 'html.parser')
@@ -60,13 +52,11 @@ while next:
 
 
     next = True if page_dom.select_one("button.pagination__next") else False
-    if next:
-        # driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        # driver.find_element(by="xpath",value="//*[@id='reviews']/div/div[7]/button[4]").click() 
-        page+=1
+    if next: page+=1
 
 if not os.path.exists("./opinions"):
     os.mkdir("./opinions")
 
 with open(f"./opinions/{product_code}.json", "w", encoding="utf-8") as f:
+    print(len(all_opinions))
     json.dump(all_opinions,f, indent=4, ensure_ascii=False)
