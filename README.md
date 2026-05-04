@@ -43,3 +43,11 @@
 
 #### venv environment activate 
 ``` source venv/Scripts/activate  ```
+
+#### installing webdriver
+
+
+
+    https://storage.googleapis.com/chrome-for-testing-public/ {your chrome version} /win64/chromedriver-win64.zip
+
+    path_to_driver = "D:\\chromedriver-win64\\chromedriver.exe"
