@@ -1,0 +1,988 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Igor Sikora
+DTEND:20260401T143000Z
+LOCATION:Paw.U sala N
+DTSTART:20260401T130000Z
+SUMMARY:Discrete mathematics (ćwiczenia)
+UID:ef9aa28c-55b2-48a1-8fad-8dcb22d1e07a@ef9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Jacek Lachner
+DTEND:20260414T180000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260414T163000Z
+SUMMARY:Business Law (wykład)
+UID:e3499bf3-113b-4591-96ae-04f0d2ceb0ba@e349.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260310T101500Z
+LOCATION:Paw.F 008
+DTSTART:20260310T084500Z
+SUMMARY:Probability and Statistics (wykład)
+UID:a9615817-d146-44e5-adc1-de46f7888a63@a961.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Jacek Lachner
+DTEND:20260428T180000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260428T163000Z
+SUMMARY:Business Law (wykład)
+UID:989f8ca6-f86f-4ad4-901c-7748aefd345a@989f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260603T124500Z
+LOCATION:Paw.A 014 lab. 
+DTSTART:20260603T111500Z
+SUMMARY:Operating Systems and Computer Networks (ćwiczenia)
+UID:6843f478-10f2-4273-9f29-6e19c6555dd2@6843.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Grzegorz Kosiorowski
+DTEND:20260421T143000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260421T130000Z
+SUMMARY:Discrete mathematics (wykład)
+UID:dcc01eb4-d45e-4b1b-a298-0822b4b87fc5@dcc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260514T143000Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260514T130000Z
+SUMMARY:Operating Systems and Computer Networks (ćwiczenia)
+UID:376826d2-68f4-4660-b089-38bcf9db836c@3768.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Igor Sikora
+DTEND:20260521T124500Z
+LOCATION:Paw.B 052 (KSB)
+DTSTART:20260521T111500Z
+SUMMARY:Discrete mathematics (ćwiczenia)
+UID:245948b8-110c-48ff-a72e-e238195c71f2@2459.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260323T144500Z
+LOCATION:Paw.A 013 lab. 
+DTSTART:20260323T121500Z
+SUMMARY:Computer Programming 2 (ćwiczenia)
+UID:b595c241-8482-45e1-8d21-da574af264a9@b595.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260316T144500Z
+LOCATION:Paw.A 013 lab. 
+DTSTART:20260316T121500Z
+SUMMARY:Computer Programming 2 (ćwiczenia)
+UID:9c1e08fe-35d9-4c71-ab8c-c5224046dee4@9c1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Grzegorz Kosiorowski
+DTEND:20260224T153000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260224T140000Z
+SUMMARY:Discrete mathematics (wykład)
+UID:0c5852b4-1b1e-4073-a3f7-9a3ddc8229e2@0c58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260317T101500Z
+LOCATION:Paw.F 008
+DTSTART:20260317T084500Z
+SUMMARY:Probability and Statistics (wykład)
+UID:33ae482a-b377-41ad-b057-02906aa0720f@33ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260319T153000Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260319T140000Z
+SUMMARY:Operating Systems and Computer Networks (ćwiczenia)
+UID:5a1ab641-3f51-4e16-9e61-f4f46c80ace1@5a1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: mgr inż. Justyna Olczak
+DTEND:20260409T161500Z
+LOCATION:Bibl.425
+DTSTART:20260409T144500Z
+SUMMARY:Information Systems (ćwiczenia)
+UID:00f9a6b4-c095-4bce-a7c8-a831c7b59e7e@00f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260429T073000Z
+LOCATION:Paw.F 008
+DTSTART:20260429T060000Z
+SUMMARY:Probability and Statistics (wykład)
+UID:edc76053-fe7b-40fa-b363-14acb199a006@edc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Igor Sikora
+DTEND:20260506T143000Z
+LOCATION:Paw.U sala N
+DTSTART:20260506T130000Z
+SUMMARY:Discrete mathematics (ćwiczenia)
+UID:8fd9fd49-75ee-46be-876d-3ccdbe75cb6f@8fd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260423T143000Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260423T130000Z
+SUMMARY:Operating Systems and Computer Networks (ćwiczenia)
+UID:6dea427b-dc00-49ff-b3c3-455d0bb719a7@6dea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260416T073000Z
+LOCATION:Paw.F 106
+DTSTART:20260416T060000Z
+SUMMARY:Operating Systems and Computer Networks (wykład)
+UID:d8605cbd-fc84-493a-87b6-ef379cc45efd@d860.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260226T153000Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260226T140000Z
+SUMMARY:Operating Systems and Computer Networks (ćwiczenia)
+UID:c8f013ed-ebc8-42a7-bd9c-ac480720d4dd@c8f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260519T091500Z
+LOCATION:Paw.F 008
+DTSTART:20260519T074500Z
+SUMMARY:Probability and Statistics (wykład)
+UID:64000b6d-5b04-47b8-9aa0-8897e24c2b4a@6400.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260316T101500Z
+LOCATION:Paw.F 008
+DTSTART:20260316T084500Z
+SUMMARY:Computer Programming 2 (wykład)
+UID:e66f6acb-fb4c-4759-b2aa-40d9c4fa56a4@e66f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Igor Sikora
+DTEND:20260430T124500Z
+LOCATION:link do zajęć
+DTSTART:20260430T111500Z
+SUMMARY:Discrete mathematics (ćwiczenia)
+UID:b61d20de-88da-4d98-8b99-5df1e15b09eb@b61d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Igor Sikora
+DTEND:20260422T143000Z
+LOCATION:Paw.U sala N
+DTSTART:20260422T130000Z
+SUMMARY:Discrete mathematics (ćwiczenia)
+UID:504a1659-d92c-4ab5-9c74-07a9c77bfddc@504a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260511T091500Z
+LOCATION:Paw.F 008
+DTSTART:20260511T074500Z
+SUMMARY:Computer Programming 2 (wykład)
+UID:7cd056d8-ee8c-4ea4-8df8-b32f307b3a4c@7cd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260609T073000Z
+LOCATION:Paw.A 013 lab. 
+DTSTART:20260609T060000Z
+SUMMARY:Probability and Statistics (ćwiczenia)
+UID:de69536f-ec6c-4a5d-a49e-e0b5f2949a2e@de69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260310T134500Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260310T121500Z
+SUMMARY:Probability and Statistics (ćwiczenia)
+UID:a6704c51-946f-41af-a3ec-0fe32fa30372@a670.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260312T153000Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260312T140000Z
+SUMMARY:Operating Systems and Computer Networks (ćwiczenia)
+UID:9b5db8fb-6d7a-4bfe-a7ea-11178fcde728@9b5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20260304T134500Z
+LOCATION:Paw.F 008
+DTSTART:20260304T121500Z
+SUMMARY:Information Systems (wykład)
+UID:3f2b0714-4f4b-4f82-861e-2e1b1f89e492@3f2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260309T144500Z
+LOCATION:Paw.A 013 lab. 
+DTSTART:20260309T121500Z
+SUMMARY:Computer Programming 2 (ćwiczenia)
+UID:21f51503-bede-4230-b610-02678facd2b4@21f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20260415T124500Z
+LOCATION:Paw.F 008
+DTSTART:20260415T111500Z
+SUMMARY:Information Systems (wykład)
+UID:7c080239-c10a-4e56-aafd-34b2e650dee6@7c08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260312T083000Z
+LOCATION:Paw.F 008
+DTSTART:20260312T070000Z
+SUMMARY:Operating Systems and Computer Networks (wykład)
+UID:c678c148-0a20-4937-ab50-ff1d04d59902@c678.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Jacek Lachner
+DTEND:20260602T180000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260602T163000Z
+SUMMARY:Business Law (wykład)
+UID:3b285782-fa0b-4d56-bbdd-2f2bd8de28f2@3b28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260611T143000Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260611T130000Z
+SUMMARY:Operating Systems and Computer Networks (ćwiczenia)
+UID:8b3a2413-c0a3-43dc-8c21-def0f337bd01@8b3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Jacek Lachner
+DTEND:20260519T180000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260519T163000Z
+SUMMARY:Business Law (wykład)
+UID:e7af9f96-2340-4d97-b10b-033078846605@e7af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Igor Sikora
+DTEND:20260408T143000Z
+LOCATION:Paw.U sala N
+DTSTART:20260408T130000Z
+SUMMARY:Discrete mathematics (ćwiczenia)
+UID:e8eed501-7946-4556-b13e-a4bd2c0e1cf7@e8ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Igor Sikora
+DTEND:20260603T143000Z
+LOCATION:Paw.U sala N
+DTSTART:20260603T130000Z
+SUMMARY:Discrete mathematics (ćwiczenia)
+UID:fd893c0f-7f5e-4e2d-93a8-8a212ad3832f@fd89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: mgr inż. Justyna Olczak
+DTEND:20260507T161500Z
+LOCATION:Bibl.425
+DTSTART:20260507T144500Z
+SUMMARY:Information Systems (ćwiczenia)
+UID:f68640db-7b76-4fee-a948-0d0c3d6af76a@f686.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Igor Sikora
+DTEND:20260325T153000Z
+LOCATION:Paw.U sala N
+DTSTART:20260325T140000Z
+SUMMARY:Discrete mathematics (ćwiczenia)
+UID:9f205738-c864-49a3-9e9b-99a16e85bdb0@9f20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260504T091500Z
+LOCATION:Paw.F 008
+DTSTART:20260504T074500Z
+SUMMARY:Computer Programming 2 (wykład)
+UID:ccaa3e41-8963-4d4c-8280-49970004d7e3@ccaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260223T144500Z
+LOCATION:Paw.A 013 lab. 
+DTSTART:20260223T121500Z
+SUMMARY:Computer Programming 2 (ćwiczenia)
+UID:586aec99-cec4-42a8-bde0-a73ac558109c@586a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260326T083000Z
+LOCATION:Paw.F 008
+DTSTART:20260326T070000Z
+SUMMARY:Operating Systems and Computer Networks (wykład)
+UID:0ee1a166-3ca2-484c-abf0-f6c414369fae@0ee1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20260429T124500Z
+LOCATION:Paw.F 008
+DTSTART:20260429T111500Z
+SUMMARY:Information Systems (wykład)
+UID:f8aba339-1c2f-48f4-8785-99786a028b43@f8ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260420T134500Z
+LOCATION:Paw.A 013 lab. 
+DTSTART:20260420T111500Z
+SUMMARY:Computer Programming 2 (ćwiczenia)
+UID:5ccfa7d9-5a93-4729-b301-0de64ad198c9@5ccf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Jacek Lachner
+DTEND:20260512T180000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260512T163000Z
+SUMMARY:Business Law (wykład)
+UID:02b2afcc-efb8-44ac-80ea-b995fa07d0a6@02b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Jacek Lachner
+DTEND:20260310T190000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260310T173000Z
+SUMMARY:Business Law (wykład)
+UID:819c6ae7-2185-4e6d-b735-0c14b17b4fda@819c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: mgr inż. Justyna Olczak
+DTEND:20260319T171500Z
+LOCATION:Bibl.425
+DTSTART:20260319T154500Z
+SUMMARY:Information Systems (ćwiczenia)
+UID:c48a36cd-9547-48e5-a411-5e7109c4b436@c48a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Grzegorz Kosiorowski
+DTEND:20260324T153000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260324T140000Z
+SUMMARY:Discrete mathematics (wykład)
+UID:064597e2-e8be-45e9-b2d4-9d51a6512af0@0645.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Igor Sikora
+DTEND:20260429T143000Z
+LOCATION:Paw.U sala N
+DTSTART:20260429T130000Z
+SUMMARY:Discrete mathematics (ćwiczenia)
+UID:0f3cfb47-af32-419a-8263-60f4fc3871a6@0f3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Igor Sikora
+DTEND:20260318T153000Z
+LOCATION:Paw.U sala N
+DTSTART:20260318T140000Z
+SUMMARY:Discrete mathematics (ćwiczenia)
+UID:614217f8-aa94-4c12-8686-fea4648be061@6142.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260504T134500Z
+LOCATION:Paw.A 013 lab. 
+DTSTART:20260504T111500Z
+SUMMARY:Computer Programming 2 (ćwiczenia)
+UID:6981cb64-4656-4696-b547-5c9e7aa1c0c8@6981.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260602T161500Z
+LOCATION:Paw.B 251
+DTSTART:20260602T144500Z
+SUMMARY:Probability and Statistics (wykład)
+UID:4081d2ed-f168-4057-83fb-fa4433198996@4081.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260521T073000Z
+LOCATION:Paw.F 008
+DTSTART:20260521T060000Z
+SUMMARY:Operating Systems and Computer Networks (wykład)
+UID:cea23e23-6cfe-4a13-83bf-dde85c3dfba9@cea2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260507T073000Z
+LOCATION:link do zajęć
+DTSTART:20260507T060000Z
+SUMMARY:Operating Systems and Computer Networks (wykład)
+UID:2eb47db1-abdb-4511-a44a-79579d244fd4@2eb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260416T143000Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260416T130000Z
+SUMMARY:Operating Systems and Computer Networks (ćwiczenia)
+UID:50e75589-d4a6-4ddd-ae21-cdbd9affeb42@50e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: mgr inż. Justyna Olczak
+DTEND:20260611T153000Z
+LOCATION:Paw.A 014 lab. 
+DTSTART:20260611T144500Z
+SUMMARY:Information Systems (ćwiczenia)
+UID:66f5c0a9-9a3a-4911-9ef8-05621d9c2180@66f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Grzegorz Kosiorowski
+DTEND:20260903T110000Z
+LOCATION:Paw.F 102
+DTSTART:20260903T083000Z
+SUMMARY:Discrete mathematics (egzamin)
+UID:cd1aa45f-e1fd-4deb-9a58-5f969dfc87eb@cd1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: mgr inż. Justyna Olczak
+DTEND:20260514T161500Z
+LOCATION:Bibl.425
+DTSTART:20260514T144500Z
+SUMMARY:Information Systems (ćwiczenia)
+UID:3c741056-8e48-40f1-91ba-1d7fc2b551f1@3c74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Igor Sikora
+DTEND:20260514T124500Z
+LOCATION:Paw.B 058 (KSB)
+DTSTART:20260514T111500Z
+SUMMARY:Discrete mathematics (ćwiczenia)
+UID:6a2eaad2-4919-4482-a174-3aaf0472fcf8@6a2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: mgr inż. Justyna Olczak
+DTEND:20260521T161500Z
+LOCATION:Bibl.425
+DTSTART:20260521T144500Z
+SUMMARY:Information Systems (ćwiczenia)
+UID:d50bf5ef-7e5a-4b10-8e22-1b36800a3570@d50b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260330T091500Z
+LOCATION:Paw.F 008
+DTSTART:20260330T074500Z
+SUMMARY:Computer Programming 2 (wykład)
+UID:6e99b243-c125-4c83-be1e-5efa20b1be28@6e99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260423T073000Z
+LOCATION:Paw.F 008
+DTSTART:20260423T060000Z
+SUMMARY:Operating Systems and Computer Networks (wykład)
+UID:9ed3f5b7-98dd-42fb-a4d2-91737549b6ac@9ed3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Jacek Lachner
+DTEND:20260303T190000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260303T173000Z
+SUMMARY:Business Law (wykład)
+UID:f7f2b629-bd2a-4499-b5e8-e992ac12080f@f7f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260526T091500Z
+LOCATION:Paw.F 008
+DTSTART:20260526T074500Z
+SUMMARY:Probability and Statistics (wykład)
+UID:556011c4-1730-4651-8730-9fb9abf1d8e7@5560.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260324T101500Z
+LOCATION:Paw.F 008
+DTSTART:20260324T084500Z
+SUMMARY:Probability and Statistics (wykład)
+UID:70688659-98a4-40b1-bf46-44fb867049ad@7068.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Igor Sikora
+DTEND:20260415T143000Z
+LOCATION:Paw.U sala N
+DTSTART:20260415T130000Z
+SUMMARY:Discrete mathematics (ćwiczenia)
+UID:b2e7aded-33d5-4386-8e02-6787751d6be9@b2e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Jacek Lachner
+DTEND:20260224T190000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260224T173000Z
+SUMMARY:Business Law (wykład)
+UID:a4adf6a7-9bec-485f-9380-bbb67135ecbb@a4ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20260610T120000Z
+LOCATION:Paw.F 008
+DTSTART:20260610T111500Z
+SUMMARY:Information Systems (wykład)
+UID:513c9e70-dae3-45ed-8d6a-138c9f53ffdd@513c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Grzegorz Kosiorowski
+DTEND:20260519T143000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260519T130000Z
+SUMMARY:Discrete mathematics (wykład)
+UID:d4d5bdfe-cf65-41be-96e8-a67c5f2096a4@d4d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260602T091500Z
+LOCATION:Paw.F 008
+DTSTART:20260602T074500Z
+SUMMARY:Probability and Statistics (wykład)
+UID:0b77056a-df00-46d2-867f-518e3a0afbe0@0b77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260302T144500Z
+LOCATION:Paw.A 013 lab. 
+DTSTART:20260302T121500Z
+SUMMARY:Computer Programming 2 (ćwiczenia)
+UID:a86ed4cc-77ea-4010-bb9b-e9b8c8df71ee@a86e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260421T124500Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260421T111500Z
+SUMMARY:Probability and Statistics (ćwiczenia)
+UID:cc2855ff-4473-4d79-a1c1-2f0e361ff914@cc28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260224T101500Z
+LOCATION:Paw.F 008
+DTSTART:20260224T084500Z
+SUMMARY:Probability and Statistics (wykład)
+UID:8d0a1b27-fcf1-4e26-bf9e-20b47d9e45a9@8d0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260305T153000Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260305T140000Z
+SUMMARY:Operating Systems and Computer Networks (ćwiczenia)
+UID:2f841fe3-7314-4b41-946a-0807704f2589@2f84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: mgr inż. Justyna Olczak
+DTEND:20260416T161500Z
+LOCATION:Bibl.425
+DTSTART:20260416T144500Z
+SUMMARY:Information Systems (ćwiczenia)
+UID:06757974-abf1-4b9a-85e4-04f8a4ca9550@0675.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260302T101500Z
+LOCATION:Paw.F 008
+DTSTART:20260302T084500Z
+SUMMARY:Computer Programming 2 (wykład)
+UID:6523f737-8250-4e0d-8109-918d88276aa8@6523.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Grzegorz Kosiorowski
+DTEND:20260617T110000Z
+LOCATION:Paw.C Nowa Aula
+DTSTART:20260617T083000Z
+SUMMARY:Discrete mathematics (egzamin)
+UID:17706745-f06f-4080-b590-193d6c512c60@1770.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260518T134500Z
+LOCATION:Paw.A 013 lab. 
+DTSTART:20260518T111500Z
+SUMMARY:Computer Programming 2 (ćwiczenia)
+UID:f1ec7c0d-b800-4703-a4b7-b5b8a92ab9c2@f1ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260521T143000Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260521T130000Z
+SUMMARY:Operating Systems and Computer Networks (ćwiczenia)
+UID:592c228c-8943-491c-a39c-162d7a5ba47e@592c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Jacek Lachner
+DTEND:20260317T190000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260317T173000Z
+SUMMARY:Business Law (wykład)
+UID:282a6375-d1c8-4d83-92c7-fe3a1a7094aa@282a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260224T134500Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260224T121500Z
+SUMMARY:Probability and Statistics (ćwiczenia)
+UID:c442304b-2690-44f9-ad89-ab47f36d54c5@c442.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260331T091500Z
+LOCATION:Paw.F 008
+DTSTART:20260331T074500Z
+SUMMARY:Probability and Statistics (wykład)
+UID:0c804371-c45c-4548-9c76-5c13067a2a59@0c80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260525T091500Z
+LOCATION:Paw.F 008
+DTSTART:20260525T074500Z
+SUMMARY:Computer Programming 2 (wykład)
+UID:aab2ccc7-143f-43cf-a411-8e0b319677c1@aab2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20260318T134500Z
+LOCATION:Paw.F 008
+DTSTART:20260318T121500Z
+SUMMARY:Information Systems (wykład)
+UID:8d2eeebd-fd96-4342-8145-f7e7fa3b3f9b@8d2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260507T143000Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260507T130000Z
+SUMMARY:Operating Systems and Computer Networks (ćwiczenia)
+UID:fa1399e7-cdb7-4cf4-9c28-863b993a910f@fa13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260430T143000Z
+LOCATION:link do zajęć
+DTSTART:20260430T130000Z
+SUMMARY:Operating Systems and Computer Networks (ćwiczenia)
+UID:c0b0dc03-941c-4907-8d52-7b876f87f61d@c0b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Igor Sikora
+DTEND:20260520T143000Z
+LOCATION:Paw.U sala N
+DTSTART:20260520T130000Z
+SUMMARY:Discrete mathematics (ćwiczenia)
+UID:4c550dc1-079a-48e3-bb84-ecda366deb46@4c55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260602T124500Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260602T111500Z
+SUMMARY:Probability and Statistics (ćwiczenia)
+UID:403e1040-df6b-4b73-8338-f603b7201a55@403e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260611T180000Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260611T163000Z
+SUMMARY:Operating Systems and Computer Networks (ćwiczenia)
+UID:12fbb173-9148-4dbd-a56a-b14c5d398144@12fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260330T134500Z
+LOCATION:Paw.A 013 lab. 
+DTSTART:20260330T111500Z
+SUMMARY:Computer Programming 2 (ćwiczenia)
+UID:8065114d-f7aa-4ddc-ba0c-5b5a946d3fd7@8065.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260413T091500Z
+LOCATION:Paw.F 008
+DTSTART:20260413T074500Z
+SUMMARY:Computer Programming 2 (wykład)
+UID:14f7b338-6f9e-40af-b0c9-ded7e1b9a95a@14f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Jacek Lachner
+DTEND:20260421T180000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260421T163000Z
+SUMMARY:Business Law (wykład)
+UID:7ee162a4-1258-4088-b5ce-5e57b8ee7d62@7ee1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Grzegorz Kosiorowski
+DTEND:20260303T153000Z
+LOCATION:Paw.C sala D
+DTSTART:20260303T140000Z
+SUMMARY:Discrete mathematics (wykład)
+UID:e2ba87c7-a61d-452b-86cc-286fc801a3c0@e2ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Jacek Lachner
+DTEND:20260324T190000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260324T173000Z
+SUMMARY:Business Law (wykład)
+UID:71203a1f-791d-407a-a00f-daddc8c69314@7120.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260520T124500Z
+LOCATION:Paw.A 014 lab. 
+DTSTART:20260520T111500Z
+SUMMARY:Operating Systems and Computer Networks (ćwiczenia)
+UID:15d5e291-6ce0-46a7-be09-52684ca38d24@15d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Igor Sikora
+DTEND:20260527T143000Z
+LOCATION:Paw.U sala N
+DTSTART:20260527T130000Z
+SUMMARY:Discrete mathematics (ćwiczenia)
+UID:ff3cbc50-0645-4846-894a-cc2be42bdddf@ff3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Igor Sikora
+DTEND:20260513T143000Z
+LOCATION:Paw.U sala N
+DTSTART:20260513T130000Z
+SUMMARY:Discrete mathematics (ćwiczenia)
+UID:b32dece2-fb57-4e8c-b8e9-da95f3d32b34@b32d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260409T143000Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260409T130000Z
+SUMMARY:Operating Systems and Computer Networks (ćwiczenia)
+UID:901ccca9-30ff-4dcd-91d2-178cedc70bee@901c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260525T134500Z
+LOCATION:Paw.A 013 lab. 
+DTSTART:20260525T111500Z
+SUMMARY:Computer Programming 2 (ćwiczenia)
+UID:47654a38-ed81-4425-88d2-2d385e0c4c0d@4765.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260506T073000Z
+LOCATION:Paw.A 118 lab. 
+DTSTART:20260506T060000Z
+SUMMARY:Probability and Statistics (ćwiczenia)
+UID:c8a22b70-9ef7-4415-a371-71e8ebbe8550@c8a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260608T083000Z
+LOCATION:Paw.F 008
+DTSTART:20260608T074500Z
+SUMMARY:Computer Programming 2 (wykład)
+UID:fe00c9fd-0814-4ea4-8800-db6e831bef3c@fe00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Jacek Lachner
+DTEND:20260609T180000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260609T163000Z
+SUMMARY:Business Law (wykład)
+UID:b3beef0d-0db2-4283-8785-e84681550b29@b3be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260511T134500Z
+LOCATION:Paw.A 013 lab. 
+DTSTART:20260511T111500Z
+SUMMARY:Computer Programming 2 (ćwiczenia)
+UID:5487f263-b2d4-4b58-9837-6e2da32bfb9c@5487.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Grzegorz Kosiorowski
+DTEND:20260310T153000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260310T140000Z
+SUMMARY:Discrete mathematics (wykład)
+UID:f912c600-782b-4a09-ae4f-be79c39d92f3@f912.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260303T101500Z
+LOCATION:Paw.F 008
+DTSTART:20260303T084500Z
+SUMMARY:Probability and Statistics (wykład)
+UID:9af979e7-2a30-45ef-82e3-809397ae65a4@9af9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Jacek Lachner
+DTEND:20260526T180000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260526T163000Z
+SUMMARY:Business Law (wykład)
+UID:066517d3-cfa3-4310-9f52-9be32cce3a3d@0665.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Jacek Lachner
+DTEND:20260505T180000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260505T163000Z
+SUMMARY:Business Law (wykład)
+UID:3c78c4be-e30b-4dda-b908-28c39621c8c1@3c78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260609T091500Z
+LOCATION:Paw.F 008
+DTSTART:20260609T074500Z
+SUMMARY:Probability and Statistics (wykład)
+UID:956d1eac-4f5d-46ff-9dd9-b0ff286d0f57@956d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260421T091500Z
+LOCATION:Paw.F 008
+DTSTART:20260421T074500Z
+SUMMARY:Probability and Statistics (wykład)
+UID:231c3f13-5c75-4da5-89d1-18e2152d8a71@231c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260505T091500Z
+LOCATION:Paw.F 008
+DTSTART:20260505T074500Z
+SUMMARY:Probability and Statistics (wykład)
+UID:b7c47817-98f4-43ea-982d-b619b41750ec@b7c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Grzegorz Kosiorowski
+DTEND:20260602T134500Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260602T130000Z
+SUMMARY:Discrete mathematics (wykład)
+UID:78a0e246-b012-4d23-8516-2ed0b6240d1e@78a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20260401T124500Z
+LOCATION:Paw.F 008
+DTSTART:20260401T111500Z
+SUMMARY:Information Systems (wykład)
+UID:8034cf6e-fbb2-4a8a-a38d-b1d3e075410b@8034.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Grzegorz Kosiorowski
+DTEND:20260505T143000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260505T130000Z
+SUMMARY:Discrete mathematics (wykład)
+UID:b185652a-8b1c-4be1-87fe-91a187766128@b185.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260413T134500Z
+LOCATION:Paw.A 013 lab. 
+DTSTART:20260413T111500Z
+SUMMARY:Computer Programming 2 (ćwiczenia)
+UID:95bf376e-81b5-4aa3-b6e4-c33e405e8724@95bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260608T134500Z
+LOCATION:Paw.A 013 lab. 
+DTSTART:20260608T111500Z
+SUMMARY:Computer Programming 2 (ćwiczenia)
+UID:ea7125b2-2221-4f1e-80e1-982c9ddf3436@ea71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20260527T124500Z
+LOCATION:Paw.F 008
+DTSTART:20260527T111500Z
+SUMMARY:Information Systems (wykład)
+UID:488d3664-9169-42a8-b2a5-2ae437a97f66@488d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260324T134500Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260324T121500Z
+SUMMARY:Probability and Statistics (ćwiczenia)
+UID:8d0c0942-a28f-4375-a45a-deda6029c72f@8d0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Katarzyna Wójcik
+DTEND:20260601T134500Z
+LOCATION:Paw.A 013 lab. 
+DTSTART:20260601T111500Z
+SUMMARY:Computer Programming 2 (ćwiczenia)
+UID:9a2abf93-88bb-4eef-ae51-5bd1d6c7b370@9a2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260609T134500Z
+LOCATION:Paw.B 151
+DTSTART:20260609T130000Z
+SUMMARY:Operating Systems and Computer Networks (wykład)
+UID:9cbbe142-a49d-43e7-9537-1a56a3bdca67@9cbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Mariusz Grabowski
+DTEND:20260513T124500Z
+LOCATION:Paw.F 008
+DTSTART:20260513T111500Z
+SUMMARY:Information Systems (wykład)
+UID:47a5a551-22bf-45a2-8ff6-491da244a886@47a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260226T083000Z
+LOCATION:Paw.F 008
+DTSTART:20260226T070000Z
+SUMMARY:Operating Systems and Computer Networks (wykład)
+UID:e9b69f91-52d9-439d-98ef-af3f9edee0e6@e9b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Jacek Lachner
+DTEND:20260331T180000Z
+LOCATION:Rakowicka 16 sala 11
+DTSTART:20260331T163000Z
+SUMMARY:Business Law (wykład)
+UID:8ff780ed-9f6a-4205-ab84-84c35cb28318@8ff7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260428T091500Z
+LOCATION:Paw.F 008
+DTSTART:20260428T074500Z
+SUMMARY:Probability and Statistics (wykład)
+UID:338b1677-005f-436e-9f01-16bcf8ac2511@338b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. dr hab. Andrzej Sokołowski
+DTEND:20260609T124500Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260609T120000Z
+SUMMARY:Probability and Statistics (ćwiczenia)
+UID:be379061-1cff-4c71-aaa4-5537fe158395@be37.org
+END:VEVENT
+END:VCALENDAR

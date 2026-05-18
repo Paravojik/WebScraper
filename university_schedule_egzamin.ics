@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Grzegorz Kosiorowski
+DTEND:20260903T110000Z
+LOCATION:Paw.F 102
+DTSTART:20260903T083000Z
+SUMMARY:Discrete mathematics (egzamin)
+UID:cd1aa45f-e1fd-4deb-9a58-5f969dfc87eb@cd1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Grzegorz Kosiorowski
+DTEND:20260617T110000Z
+LOCATION:Paw.C Nowa Aula
+DTSTART:20260617T083000Z
+SUMMARY:Discrete mathematics (egzamin)
+UID:17706745-f06f-4080-b590-193d6c512c60@1770.org
+END:VEVENT
+END:VCALENDAR
