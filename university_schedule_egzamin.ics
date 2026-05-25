@@ -3,18 +3,26 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Prowadzący: dr Grzegorz Kosiorowski
-DTEND:20260903T110000Z
-LOCATION:Paw.F 102
-DTSTART:20260903T083000Z
-SUMMARY:Discrete mathematics (egzamin)
-UID:cd1aa45f-e1fd-4deb-9a58-5f969dfc87eb@cd1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Prowadzący: dr Grzegorz Kosiorowski
 DTEND:20260617T110000Z
 LOCATION:Paw.C Nowa Aula
 DTSTART:20260617T083000Z
 SUMMARY:Discrete mathematics (egzamin)
-UID:17706745-f06f-4080-b590-193d6c512c60@1770.org
+UID:1e73bbfc-019d-46ac-9eb8-967c419deb07@1e73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: prof. UEK dr hab. Joanna Wyrobek
+DTEND:20260626T101500Z
+LOCATION:Paw.A 07 lab. 
+DTSTART:20260626T083000Z
+SUMMARY:Operating Systems and Computer Networks (egzamin)
+UID:d061c08b-01d9-4bdd-a8df-fe10c2ef1bde@d061.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prowadzący: dr Grzegorz Kosiorowski
+DTEND:20260903T110000Z
+LOCATION:Paw.F 102
+DTSTART:20260903T083000Z
+SUMMARY:Discrete mathematics (egzamin)
+UID:9591bec8-449b-452d-a49e-6a79e1694697@9591.org
 END:VEVENT
 END:VCALENDAR
